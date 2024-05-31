@@ -1,13 +1,13 @@
 {
-  "name": "alice",
-  "prefix": "/",
+  "name": "ericson",
+  "prefix": "-",
   "language": "english",
   "timezone": "Asia/Manila",
   "font": 11,
   "listen": false,
   "theme": 19,
   "admin": [
-    "100050635086635"
+    "100027279883548"
   ],
   "developer": "leiamnash"
 }
